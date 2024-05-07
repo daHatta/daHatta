@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my Name is Heiko aka daHatta</h1>
+<h1 align="center">Hi, my name is Heiko aka daHatta</h1>
 <p align="center">Located in &#x1F43B;lin, Germany</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dahatta&label=Profile%20views&color=0e75b6&style=flat" alt="dahatta" /></p>
 <br />

@@ -43,7 +43,7 @@ Started developing with vanilla javascript ...<br />
 <br />
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dahatta&show_icons=true&locale=en&layout=compact" alt="dahatta" /></div>
 <br /><br />
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dahatta&show_icons=true&locale=en" alt="dahatta" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dahatta&" alt="dahatta" />
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dahatta&show_icons=true&locale=en" alt="dahatta" /></div>
+<br /><br />
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dahatta&" alt="dahatta" /></div>
+<br />

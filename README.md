@@ -5,9 +5,9 @@
 <p align="center"><strong>Interested in webdevelopment and trying to advance from frontend-only to a full-stack developer.</strong></p>
 <br />
 <div align="center">
-Started developing with Vanilla Javascript, ...<br />
-... I am currently focusing on Next.js using React<br />
-... and trying to learn more about handling Typescript.<br />
+Started developing with Vanilla Javascript.<br />
+I am currently focusing on Next.js using React<br />
+and trying to learn more about handling Typescript.<br />
 </div>
 <br /><br />
 <h3 align="center">Languages and Tools used in my Github-projects:</h3>
